@@ -1,0 +1,9 @@
+package com.cts.swmd.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+
+public class VisitorRestController {
+
+}
